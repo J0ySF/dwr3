@@ -1,0 +1,73 @@
+{
+	"Name": "8 receivers, 3 radius sq",
+	"Description": "Check correct array radius in INFO.md depending on sample rate",
+	"GenericLayout": {
+		"Name": "Sensor Directions",
+		"Elements": [
+			{
+				"Azimuth": 135.0,
+				"Elevation": -35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 1,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -135.0,
+				"Elevation": -35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 2,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 135.0,
+				"Elevation": 35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 3,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -135.0,
+				"Elevation": 35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 4,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 45.0,
+				"Elevation": -35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 5,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -45.0,
+				"Elevation": -35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 6,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 45.0,
+				"Elevation": 35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 7,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -45.0,
+				"Elevation": 35.264389682754654,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 8,
+				"Gain": 1.0
+			}
+		]
+	}
+}

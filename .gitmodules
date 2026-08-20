@@ -1,0 +1,6 @@
+[submodule "third_party/JUCE"]
+	path = third_party/JUCE
+	url = https://github.com/juce-framework/JUCE
+[submodule "third_party/tinywav"]
+	path = third_party/tinywav
+	url = https://github.com/mhroth/tinywav/

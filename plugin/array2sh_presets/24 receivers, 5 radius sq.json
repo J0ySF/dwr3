@@ -1,0 +1,201 @@
+{
+	"Name": "24 receivers, 5 radius sq",
+	"Description": "Check correct array radius in INFO.md depending on sample rate",
+	"GenericLayout": {
+		"Name": "Sensor Directions",
+		"Elements": [
+			{
+				"Azimuth": -180.0,
+				"Elevation": -26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 1,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 153.43494882292202,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 2,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -153.43494882292202,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 3,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -180.0,
+				"Elevation": 26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 4,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -180.0,
+				"Elevation": -63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 5,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 116.56505117707799,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 6,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -116.56505117707799,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 7,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -180.0,
+				"Elevation": 63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 8,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 90.0,
+				"Elevation": -63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 9,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -90.0,
+				"Elevation": -63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 10,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 90.0,
+				"Elevation": -26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 11,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -90.0,
+				"Elevation": -26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 12,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 90.0,
+				"Elevation": 26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 13,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -90.0,
+				"Elevation": 26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 14,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 90.0,
+				"Elevation": 63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 15,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -90.0,
+				"Elevation": 63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 16,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -0.0,
+				"Elevation": -63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 17,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 63.43494882292201,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 18,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -63.43494882292201,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 19,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -0.0,
+				"Elevation": 63.43494882292201,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 20,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -0.0,
+				"Elevation": -26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 21,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": 26.565051177077986,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 22,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -26.565051177077986,
+				"Elevation": 0.0,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 23,
+				"Gain": 1.0
+			}
+,			{
+				"Azimuth": -0.0,
+				"Elevation": 26.565051177077986,
+				"Radius": 1.0,
+				"IsImaginary": false,
+				"Channel": 24,
+				"Gain": 1.0
+			}
+		]
+	}
+}
